@@ -272,6 +272,7 @@ their fair chance!`**
 ## 📄 License
 
 This project is protected by a **Custom "All Rights Reserved" License**.
+ **Copyright © 2025 Anirban Das as Project Contributor**
 
 > 🚫 Unauthorized use, modification, distribution, or publication is strictly prohibited.  
 > 📧 For licensing inquiries, contact: **[samhd8991@gmail.com](mailto:samhd8991@gmail.com)**
